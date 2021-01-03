@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AcelerometroV14</string>
+    <string name="m_s_2">m/s^2</string>
+    <string name="g">G</string>
+</resources>
